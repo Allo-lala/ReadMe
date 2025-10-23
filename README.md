@@ -1,0 +1,64 @@
+# • Developer Experience • Tech Writer • Fantasy Nerd • World Traveler
+
+Hey, I'm Allan – a software engineer, writer, and fantasy nerd. <br>
+I turn complex tech mumbo jumbo into real things that solve problems. <br>
+Currently focusing on improving my Virtual Reality and Blue prints engineering (Unreal/Unity), but still deeply rooted in Python, API design, and docs that don't suck.
+
+> Former Dev @ After Query Experts, LD, Tellis Sweden.
+
+## 🚀 Latest Project: [DevRel Playground](https://www.devrel-playground.com/)
+
+Built for DevRel Professionals who want to create amazing technical content. Compare AI models side-by-side, get automated quality scores, and discover which prompts work best for your audience. The goal is to make data-driven decisions and to iterate on our assumptions to get better outcomes for the dev community.
+
+**Built with:** Next.js 15 • TypeScript • Mantine • Vercel
+
+## ✨ Featured Work
+
+|🍔 <a href="https://burgersdemo.ncrcloud.com/Peachtree-Burger/">Burger Demo App</a>| 🧾 <a href="https://github.com/Allo-lala/mam-tours-travel">Mam Tours & Travel</a>| 📋 <a href="https://github.com/Allo-lala/">API Documentation Samples</a>|
+|:---:|:---:|:---:|
+|<code>React</code> <code>JS</code> <code>APIs</code><br><em>Full-stack Django application demonstrating API integration. Built to showcase developer-friendly architecture patterns.</em> | <code>Python</code> <code>Auth</code> <code>Docs</code><br> <em>Enterprise API security documentation that reduced support tickets and enabled external developer onboarding across multiple NCR product teams.</em>|<code>OpenAPI</code> <code>YAML</code> <code>Specs</code><br><em>Comprehensive API schemas for fintech and blockchain platforms. Powers 10K+ monthly developers.</em>|
+
+|🎮 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/java-tutorial/">Security log Java Tutorial</a>|☕ <a href="https://www.youtube.com/watch?v=eUJDmLEVtjU&ab_channel=ThatDevTaylorGames">Skyways Airlines</a>|🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">System Info Report</a>|
+|:---:|:---:|:---:|
+|<code>Java</code> <code>Game Flow</code> <code>Tutorial</code> <br> <em>Educational programming content that transforms complex concepts into accessible learning experiences. Reached 75K+ developers across Medium and YouTube.</em>|<code>Java</code> <code>Tutorial</code> <code>How to Guide</code><br><em>Technical problem-solving tutorial that breaks down algorithmic thinking and Java implementation patterns for developers at all skill levels.</em>|<code>JS</code> <code>Stellar</code> <code>APIs</code><br> <em>Interactive blockchain workshop materials enabling developers to build dynamic NFT applications using Stellar's API ecosystem.</em>|
+
+## 🛠 Tech Stack
+
+`Python` · `TypeScript` · `JavaScript` ·`Solidity` · `React` · `Django` · `FastAPI` · `Markdown` · `MDX` · `Vibes`  
+
+## 🛠 Tech Stack
+
+`Python` · `TypeScript` · `JavaScript` ·`Solidity` · `React` · `Django` · `FastAPI` · `Markdown` · `MDX` · `Vibes`  
+
+## 🧠 Currently Building
+
+- 🧵 **Braid** 
+  *A visual outliner for nonlinear storytelling and braided plots.*  
+  <code>React</code> <code>D3</code> <code>FastAPI</code>
+
+- ✨ **Spark**  
+  *A productivity app to gamify goals, tasks, and habits with milestone-based tracking.*  
+  <code>React</code> <code>FastAPI</code> <code>Auth</code>
+
+- ✍️ **Domains of Power**  
+  *A fantasy book series that slaps harder than your favorite anime fight*  
+  <code>Horror</code> <code>The CW on Acid</code> <code>Prestige Anime Aura</code>
+
+## 🧃 Ethos
+
+_"Just read the docs. If there aren't any docs, write the docs."_
+
+## 🌍 Places I've Been
+
+| North America | South America | Europe   | Africa       | Asia          | Oceania   |  
+|---------------|---------------|----------|--------------|---------------|-----------|
+| Mexico x 2    | Columbia x 2  | Germany  | South Africa | Thailand      |           |            
+| Canada        | Peru          | NL       | Tanzania x 2 |               | Australia | 
+| United States | Chile         | Spain x2 | Ethiopia     | Singapore x 2 |           |            
+|               |               | France   | Kenya x3     | Japan x 2 (*October 2026*)|           
+| 
+
+## 📫 Contact Me
+
+Want to collab? Hire me?  
+Reach out via [LinkedIn](https://www.linkedin.com/in/kyagulanyi-allan-75050b221/)
