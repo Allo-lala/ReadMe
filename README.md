@@ -4,7 +4,7 @@ Hey, I'm Allan – a software engineer, writer, and fantasy nerd. <br>
 I turn complex tech mumbo jumbo into real things that solve problems. <br>
 Currently focusing on improving my Virtual Reality and Blue prints engineering (Unreal/Unity), but still deeply rooted in Python, API design, and docs that don't suck.
 
-> Former Dev @ After Query Experts, LD, Tellis Sweden.
+> Former Dev @ After Query Experts, LD, Tellis Sweden, Counterpart
 
 ## 🚀 Latest Project: [DevRel Playground](https://www.devrel-playground.com/)
 
