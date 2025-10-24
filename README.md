@@ -20,7 +20,7 @@ Built for DevRel Professionals who want to create amazing technical content. Com
 
 |🎮 <a href="https://github.com/Allo-lala/">Security Log </a>|☕ <a href="air-ticketing-sytem.vercel.app">Skyways Airlines</a>|🖼️ <a href="https://github.com/Allo-lala/">System Info Report</a>|
 |:---:|:---:|:---:|
-|<code>Java</code> <code>Game Flow</code> <code>Tutorial</code> <br> <em>Educational programming content that transforms complex concepts into accessible learning experiences.</em>|<code>Java</code> <code>Tutorial</code> <code>How to Guide</code><br><em>Skyways Airline system that support ticketing and enabled external developer onboarding across multiple NCR teams..</em>|<code>JS</code> <code>Stellar</code> <code>APIs</code><br> <em>Interactive blockchain workshop materials enabling developers to build dynamic applications using Stellar's API ecosystem.</em>|
+|<code>Python</code> <code>Docker</code> <code>Terminal Bench</code> <br> <em>Educational programming content that transforms complex concepts into security accessible learning experiences.</em>|<code>Java</code> <code>Tutorial</code> <code>How to Guide</code><br><em>Skyways Airline system that support ticketing and enabled external developer onboarding across multiple NCR teams..</em>|<code>JS</code> <code>Stellar</code> <code>APIs</code><br> <em>Interactive blockchain workshop materials enabling developers to build dynamic applications using Stellar's API ecosystem.</em>|
 
 ## 🛠 Tech Stack
 
@@ -28,7 +28,7 @@ Built for DevRel Professionals who want to create amazing technical content. Com
 
 ## 🧠 Currently Building
 
-- 🧵 **Grin Mates** 
+- 🌿 **Grin Mates** 
   *An Eco-friendly dApp on Celo blockchain that empowers, Engagews activists while they earn per verified sustainable task*  
   <code>Flutter</code> <code>Celo</code> <code>ADK</code>
 
